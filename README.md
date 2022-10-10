@@ -2,9 +2,9 @@
 
 Front-End Web Developer & Data Analyst, trained in Full-Stack web dev
 
-My go-to => SERN stack. Eager to master more stacks, am working on WordPress & Shopify projects. 
+My go-to => SERN stack. Eager to master more stacks.
 
-<!-- Visit my [portfolio](https://shawnfox.herokuapp.com) -->
+<!-- Visit my [portfolio](https://james-jordan.dev/) -->
 
 ## ⚡ Technologies
 
