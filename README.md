@@ -23,6 +23,7 @@ My go-to => SERN stack. Eager to master more stacks.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-white?style=flat-square&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 
 ## ⚡ Stats
