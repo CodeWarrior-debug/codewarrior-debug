@@ -1,6 +1,6 @@
 ## James Jordan
 
-Front-End Web Developer & Data Analyst, trained in Full-Stack web dev
+Full Stack Web Developer, leveraging a background in Data Analysis & Storytelling
 
 My go-to => SERN stack. Eager to master more stacks.
 
