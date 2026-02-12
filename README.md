@@ -31,9 +31,9 @@ My go-to => SERN stack. Eager to master more stacks.
 
 
 ## ⚡ Stats
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=codewarrior-debug&theme=blue-green)
-  ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=codewarrior-debug&theme=blue-green)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewarrior-debug&theme=blue-green)
+  ![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=codewarrior-debug&theme=blue-green)
+  ![github streak](https://streak-stats.demolab.com/?user=codewarrior-debug&theme=blue-green)
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codewarrior-debug&theme=blue-green)
 
 💬 Ask me about ...
   My passion project on perspectives: it will map a person's perspectives & weight their opinions on any topic. Will accelerate evidence-sharing on any topic; on controversial     topics, will empower respectful and context-aware back and forth.
